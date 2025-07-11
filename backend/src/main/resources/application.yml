@@ -1,5 +1,6 @@
 spring:
   application:
+<<<<<<< HEAD
     name: back
   profiles:
     active: dev
@@ -34,3 +35,6 @@ custom:
     secretKey: abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789abcdefghijklmnopqrstuvwxyz0123456789
   accessToken:
     expirationSeconds: "#{60*20}"
+=======
+    name: backend
+>>>>>>> d239ea8988dcc5f175c5b152daf81bca8887c124
